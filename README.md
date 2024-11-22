@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gr1-m
+- 👋 Hi, I’m @shady
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on ...
